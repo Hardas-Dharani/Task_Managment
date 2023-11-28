@@ -1,0 +1,115 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginC6resultyypSgcSgvsTq",
+            "_$s21facebook_auth_desktop17WebViewControllerC11onDismissedyycSgvpMV",
+            "_facebook_auth_desktopVersionString",
+            "_$s21facebook_auth_desktop17WebViewControllerC17targetUriFragmentSSSgvpMV",
+            "_$s21facebook_auth_desktop17WebViewControllerC11onDismissedyycSgvpfi",
+            "_$s21facebook_auth_desktop17WebViewControllerC7loadUrlyySSFTq",
+            "_$s21facebook_auth_desktop17WebViewControllerCfD",
+            "_$s21facebook_auth_desktop17WebViewControllerC5coderACSgSo7NSCoderC_tcfc",
+            "_$s21facebook_auth_desktop17WebViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfC",
+            "_$s21facebook_auth_desktop17WebViewControllerC10onCompleteySSSgcSgvg",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginC8register4withySo07FlutterG9Registrar_p_tFZ",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginC6resultyypSgcSgvgTq",
+            "_$s21facebook_auth_desktop17WebViewControllerC03webE0_15decidePolicyFor15decisionHandlerySo05WKWebE0C_So18WKNavigationActionCySo0noI0VctF",
+            "_$s21facebook_auth_desktop17WebViewControllerC7loadUrlyySSF",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginCfD",
+            "_$s21facebook_auth_desktop17WebViewControllerC11onDismissedyycSgvsTq",
+            "_$s21facebook_auth_desktop17WebViewControllerC04loadE0yyF",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginC12_openWebview3url17targetUriFragmentySS_SStFTq",
+            "_$s21facebook_auth_desktop17WebViewControllerC17targetUriFragmentSSSgvpfi",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginCMn",
+            "_$s21facebook_auth_desktop17WebViewControllerC10onCompleteySSSgcSgvgTq",
+            "_$s21facebook_auth_desktop17WebViewControllerC10onCompleteySSSgcSgvsTq",
+            "_Swift51Overrides",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF",
+            "_$s21facebook_auth_desktop17WebViewControllerC17targetUriFragmentSSSgvsTq",
+            "_$s21facebook_auth_desktop17WebViewControllerC5coderACSgSo7NSCoderC_tcfC",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginC6resultyypSgcSgvMTq",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginCACycfc",
+            "_$s21facebook_auth_desktop17WebViewControllerC10onCompleteySSSgcSgvMTq",
+            "_$s21facebook_auth_desktop17WebViewControllerCMn",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginC6resultyypSgcSgvpWvd",
+            "_$s21facebook_auth_desktop17WebViewControllerC03webE0_15decidePolicyFor15decisionHandlerySo05WKWebE0C_So18WKNavigationActionCySo0noI0VctFTq",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginC6resultyypSgcSgvs",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginC6resultyypSgcSgvpMV",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginCN",
+            "_$s21facebook_auth_desktop17WebViewControllerC17targetUriFragmentSSSgvgTq",
+            "_$s21facebook_auth_desktop17WebViewControllerC10onCompleteySSSgcSgvpMV",
+            "_$s21facebook_auth_desktop17WebViewControllerC17targetUriFragmentSSSgvs",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginCMa",
+            "_$s21facebook_auth_desktop17WebViewControllerC12clearCookiesyyFTq",
+            "_$s21facebook_auth_desktop17WebViewControllerC11onDismissedyycSgvM",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginC6resultyypSgcSgvpfi",
+            "_$s21facebook_auth_desktop17WebViewControllerC17targetUriFragmentSSSgvpWvd",
+            "_$s21facebook_auth_desktop17WebViewControllerCN",
+            "_$s21facebook_auth_desktop17WebViewControllerC17targetUriFragmentSSSgvM",
+            "_$s21facebook_auth_desktop17WebViewControllerC10onCompleteySSSgcSgvM",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginC12_openWebview3url17targetUriFragmentySS_SStF",
+            "_Swift50Overrides",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginC6resultyypSgcSgvg",
+            "_$s21facebook_auth_desktop17WebViewControllerC11onDismissedyycSgvgTq",
+            "_$s21facebook_auth_desktop17WebViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "_$s21facebook_auth_desktop17WebViewControllerC10onCompleteySSSgcSgvpWvd",
+            "_$s21facebook_auth_desktop17WebViewControllerC17targetUriFragmentSSSgvMTq",
+            "_$s21facebook_auth_desktop17WebViewControllerC10onCompleteySSSgcSgvs",
+            "_$s21facebook_auth_desktop17WebViewControllerC11onDismissedyycSgvMTq",
+            "_$s21facebook_auth_desktop17WebViewControllerC11onDismissedyycSgvg",
+            "_$s21facebook_auth_desktop17WebViewControllerC11onDismissedyycSgvpWvd",
+            "_$s21facebook_auth_desktop17WebViewControllerC10onCompleteySSSgcSgvpfi",
+            "_facebook_auth_desktopVersionNumber",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginC6resultyypSgcSgvM",
+            "_$s21facebook_auth_desktop17WebViewControllerC11onDismissedyycSgvs",
+            "_$s21facebook_auth_desktop17WebViewControllerCMa",
+            "_$s21facebook_auth_desktop17WebViewControllerC16viewDidDisappearyyF",
+            "_$s21facebook_auth_desktop17WebViewControllerC12clearCookiesyyF",
+            "_$s21facebook_auth_desktop25FacebookAuthDesktopPluginCACycfC",
+            "_$s21facebook_auth_desktop17WebViewControllerC17targetUriFragmentSSSgvg"
+          ],
+          "objc_class": [
+            "PodsDummy_facebook_auth_desktop",
+            "_TtC21facebook_auth_desktop25FacebookAuthDesktopPlugin",
+            "_TtC21facebook_auth_desktop17WebViewController"
+          ]
+        },
+        "text": {
+          "global": [
+            "__ZN5swift39swift51override_conformsToSwiftProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEN7__swift9__runtime4llvm9StringRefEPFPKNS_35TargetProtocolConformanceDescriptorIS1_EES4_S8_SC_E",
+            "__ZN5swift34swift50override_conformsToProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEPFPKNS_18TargetWitnessTableIS1_EES4_S8_E",
+            "__Z34_swiftoverride_class_getSuperclassPKN5swift14TargetMetadataINS_9InProcessEEE"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/facebook_auth_desktop.framework/Versions/A/facebook_auth_desktop"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "10.14",
+        "target": "x86_64-macos"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

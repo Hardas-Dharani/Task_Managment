@@ -1,0 +1,53 @@
+dependencies: \
+  /Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/firebase_auth.build/module.modulemap \
+  /Users/macbook/.pub-cache/hosted/pub.dev/firebase_auth-4.10.1/macos/Classes/PigeonParser.m \
+  /Users/macbook/voxtron/task_management/macos/Pods/Target\ Support\ Files/firebase_auth/firebase_auth-prefix.pch \
+  /Users/macbook/.pub-cache/hosted/pub.dev/firebase_auth-4.10.1/macos/Classes/Private/PigeonParser.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/Headers/Public/Firebase/Firebase.h \
+  /Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCore.build/module.modulemap \
+  /Users/macbook/voxtron/task_management/macos/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FirebaseAuth.h \
+  /Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseAuth.build/module.modulemap \
+  /Users/macbook/voxtron/task_management/macos/Pods/Target\ Support\ Files/FirebaseAuth/FirebaseAuth-umbrella.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRActionCodeSettings.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAdditionalUserInfo.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuth.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthAPNSTokenType.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthErrors.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthCredential.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthDataResult.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthSettings.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthTokenResult.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthUIDelegate.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIREmailAuthProvider.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRFacebookAuthProvider.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRFederatedAuthProvider.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRGameCenterAuthProvider.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRGitHubAuthProvider.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRGoogleAuthProvider.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactor.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorAssertion.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorInfo.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorSession.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorResolver.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIROAuthCredential.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIROAuthProvider.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRTwitterAuthProvider.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRUser.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRUserInfo.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRUserMetadata.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneAuthCredential.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneAuthProvider.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneMultiFactorAssertion.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneMultiFactorGenerator.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneMultiFactorInfo.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRTOTPMultiFactorAssertion.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRTOTPMultiFactorGenerator.h \
+  /Users/macbook/voxtron/task_management/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRTOTPSecret.h \
+  /Users/macbook/.pub-cache/hosted/pub.dev/firebase_auth-4.10.1/macos/Classes/Public/firebase_auth_messages.g.h

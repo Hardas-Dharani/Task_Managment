@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/connectivity_plus-master.dia",
+    "emit-module-dependencies" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/connectivity_plus-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/connectivity_plus-master-emit-module.dia",
+    "swift-dependencies" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/connectivity_plus-master.swiftdeps"
+  },
+  "/Users/macbook/.pub-cache/hosted/pub.dev/connectivity_plus-4.0.2/macos/Classes/ConnectivityPlugin.swift" : {
+    "const-values" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlugin.swiftconstvalues",
+    "dependencies" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlugin.d",
+    "diagnostics" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlugin.o",
+    "llvm-bc" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlugin.bc",
+    "object" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlugin.o",
+    "swift-dependencies" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlugin.swiftdeps",
+    "swiftmodule" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ConnectivityPlugin~partial.swiftmodule"
+  },
+  "/Users/macbook/.pub-cache/hosted/pub.dev/connectivity_plus-4.0.2/macos/Classes/ConnectivityProvider.swift" : {
+    "const-values" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider.swiftconstvalues",
+    "dependencies" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider.d",
+    "diagnostics" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider.o",
+    "llvm-bc" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider.bc",
+    "object" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider.o",
+    "swift-dependencies" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider.swiftdeps",
+    "swiftmodule" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ConnectivityProvider~partial.swiftmodule"
+  },
+  "/Users/macbook/.pub-cache/hosted/pub.dev/connectivity_plus-4.0.2/macos/Classes/PathMonitorConnectivityProvider.swift" : {
+    "const-values" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider.swiftconstvalues",
+    "dependencies" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider.d",
+    "diagnostics" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider.o",
+    "llvm-bc" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider.bc",
+    "object" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider.o",
+    "swift-dependencies" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider.swiftdeps",
+    "swiftmodule" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/PathMonitorConnectivityProvider~partial.swiftmodule"
+  },
+  "/Users/macbook/.pub-cache/hosted/pub.dev/connectivity_plus-4.0.2/macos/Classes/ReachabilityConnectivityProvider.swift" : {
+    "const-values" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ReachabilityConnectivityProvider.swiftconstvalues",
+    "dependencies" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ReachabilityConnectivityProvider.d",
+    "diagnostics" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ReachabilityConnectivityProvider.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ReachabilityConnectivityProvider.o",
+    "llvm-bc" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ReachabilityConnectivityProvider.bc",
+    "object" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ReachabilityConnectivityProvider.o",
+    "swift-dependencies" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ReachabilityConnectivityProvider.swiftdeps",
+    "swiftmodule" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/connectivity_plus.build/Objects-normal/x86_64/ReachabilityConnectivityProvider~partial.swiftmodule"
+  }
+}

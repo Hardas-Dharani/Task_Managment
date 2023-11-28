@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/facebook_auth_desktop.build/Objects-normal/x86_64/facebook_auth_desktop-master.dia",
+    "emit-module-dependencies" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/facebook_auth_desktop.build/Objects-normal/x86_64/facebook_auth_desktop-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/facebook_auth_desktop.build/Objects-normal/x86_64/facebook_auth_desktop-master-emit-module.dia",
+    "swift-dependencies" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/facebook_auth_desktop.build/Objects-normal/x86_64/facebook_auth_desktop-master.swiftdeps"
+  },
+  "/Users/macbook/.pub-cache/hosted/pub.dev/facebook_auth_desktop-1.0.1/macos/Classes/FacebookAuthDesktopPlugin.swift" : {
+    "const-values" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/facebook_auth_desktop.build/Objects-normal/x86_64/FacebookAuthDesktopPlugin.swiftconstvalues",
+    "dependencies" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/facebook_auth_desktop.build/Objects-normal/x86_64/FacebookAuthDesktopPlugin.d",
+    "diagnostics" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/facebook_auth_desktop.build/Objects-normal/x86_64/FacebookAuthDesktopPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/facebook_auth_desktop.build/Objects-normal/x86_64/FacebookAuthDesktopPlugin.o",
+    "llvm-bc" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/facebook_auth_desktop.build/Objects-normal/x86_64/FacebookAuthDesktopPlugin.bc",
+    "object" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/facebook_auth_desktop.build/Objects-normal/x86_64/FacebookAuthDesktopPlugin.o",
+    "swift-dependencies" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/facebook_auth_desktop.build/Objects-normal/x86_64/FacebookAuthDesktopPlugin.swiftdeps",
+    "swiftmodule" : "/Users/macbook/voxtron/task_management/build/macos/Build/Intermediates.noindex/Pods.build/Debug/facebook_auth_desktop.build/Objects-normal/x86_64/FacebookAuthDesktopPlugin~partial.swiftmodule"
+  }
+}
